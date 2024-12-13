@@ -1,0 +1,47 @@
+# Mac-generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Dependency caches
+.npm/
+bower_components/
+jspm_packages/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+*.tmp
+
+# Sensitive information
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.php_cs.cache
